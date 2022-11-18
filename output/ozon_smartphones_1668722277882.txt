@@ -1,0 +1,11 @@
+Android         11.x - 34
+    iOS           15 - 14
+Android         12.x - 13
+    iOS           13 - 11
+    iOS           14 - 10
+Android         10.x -  5
+Android 11 (EMUI 12) -  4
+    iOS           16 -  4
+Android          NaN -  2
+    iOS          NaN -  2
+ Xiaomi          NaN -  1
