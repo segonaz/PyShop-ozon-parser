@@ -27,19 +27,11 @@ mkdir pyshop-ozon-parser && cd pyshop-ozon-parser
 ```
 
 ```shell
-git init
+git init && git pull https://github.com/segonaz/PyShop-ozon-parser.git
 ```
 
 ```shell
-git pull https://github.com/segonaz/PyShop-ozon-parser.git
-```
-
-```shell
-python3 -m venv venv
-```
-
-```shell
-source venv/bin/activate
+python3 -m venv venv && source venv/bin/activate
 ```
 
 ```shell
